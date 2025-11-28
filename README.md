@@ -1,7 +1,7 @@
 <!-- ================= HEADER / BANNER ================ -->
 
 <p align="center">
-  <img src="https://github.com/ekarsilodh/ekarsilodh/blob/main/assets/banner.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/ekarsilodh/ekarsilodh/blob/main/Banner.png" width="100%" alt="Banner"/>
 </p>
 
 <p align="left">
@@ -26,7 +26,6 @@ I work on problems such as:
 - Multi-omics integration and regulome analysis  
 - Gene expression-based cancer subtyping (e.g. PAM50) using ensemble ML/DL models  
 - Protein–ligand binding affinity prediction via deep learning  
-- RNA 3D structure prediction (sequence-to-structure modelling)  
 - Structural variant (SV) annotation & trio-based analysis  
 - High-performance computing, GPU-enabled workflows, reproducible pipelines  
 
@@ -37,7 +36,7 @@ I work on problems such as:
 - 🧬 Multi-omics integration & regulome analytics  
 - 🧠 Deep learning for cancer & neurodegeneration (AD, AML, BRCA)  
 - 🧩 RNA structural biology (TM-score evaluation pipelines)  
-- 🔥 Transformer/ResNet/GRU based biological modeling  
+- 🔥 Transformer/ResNet/GRU-based biological modeling  
 - ⚗️ Generative & reinforcement learning for drug repurposing  
 - 🧪 Structural variant annotation (ClinVar/ClinGen pipelines)  
 - 🖥️ HPC workflows on BlueBEAR (GPU/CPU clusters)  
@@ -49,8 +48,8 @@ I work on problems such as:
 
 | **Project** | **Description** | **Tech & Methods** |
 |-------------|-----------------|---------------------|
-| **GWAS Pipeline for Autotetraploid Potato** | Built a full GWAS workflow for canopy architecture & yield traits using SNP + phenotyping datasets; integrated population structure (DAPC/STRUCTURE), environmental correction via BLUEs, and comparative models. | R · Linux · Polyploid GWAS · DAPC · STRUCTURE |
-| **RLBindDeep** | ResNet–LSTM based deep learning model for large-scale protein–ligand binding affinity prediction. | PyTorch/TensorFlow · Deep Learning · CNN/GRU/ResNet |
+| **GWAS Pipeline for Autotetraploid Potato** | Builting a full GWAS workflow for canopy architecture & yield traits using SNP + phenotyping datasets; integrated population structure (DAPC/STRUCTURE), environmental correction via BLUEs, and comparative models. | R · Linux · Polyploid GWAS · DAPC · STRUCTURE |
+| **RLBindDeep** | ResNet–LSTM based deep learning model for large-scale protein–ligand binding affinity prediction. | TensorFlow · Deep Learning · CNN/GRU/ResNet |
 | **PAM50GenePath** | CatBoost-driven framework for PAM50 breast cancer subtype classification using pathway-aware gene expression features. | CatBoost · ML Classification · Gene Expression |
 | **BioAlignNet** | GPU-accelerated global sequence alignment framework across genomics and proteomics scales. | CUDA · Python · Alignment Algorithms |
 | **SkinEnsemNet** | Ensemble deep learning pipeline for multi-class skin cancer classification from dermatology images. | Deep Learning · CNNs · Image Processing |

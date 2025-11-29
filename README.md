@@ -137,7 +137,7 @@ M. De, R. L. Chhetri, M. Konar, A. N. Joardar, A. Jain, **E. Lodh**, T. Chowdhur
 
 ## 🔗 Featured Current Project
 
-- **[SV-Trios](https://github.com/ekarsilodh/SV-Trios)** — Trio-based SV annotation pipeline (Python + BEDTools)  
+- **[SV-Trios]([https://github.com/ekarsilodh/SV-Trios](https://github.com/ekarsilodh/delly_vcf_trio_analyzer))** — Trio-based SV annotation pipeline from Delly VCFs (Python + BEDTools)  
 
 ---
 

@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ekarsilodh&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- ================= TYPING ANIMATION ================ -->
+<!-- ================= Heading Name ================ -->
 
 <h2 align="center">Hi, I'm Ekarsi Lodh 👋</h2>
 
@@ -137,7 +137,7 @@ M. De, R. L. Chhetri, M. Konar, A. N. Joardar, A. Jain, **E. Lodh**, T. Chowdhur
 
 ## 🔗 Featured Current Project
 
-- **[SV-Trios]([https://github.com/ekarsilodh/SV-Trios](https://github.com/ekarsilodh/delly_vcf_trio_analyzer))** — Trio-based SV annotation pipeline from Delly VCFs (Python + BEDTools)  
+- **[SV-Trios](https://github.com/ekarsilodh/Delly-SV-Trios))** — Trio-based SV annotation pipeline from Delly VCFs (Python + BEDTools)  
 
 ---
 

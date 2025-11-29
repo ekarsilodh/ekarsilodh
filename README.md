@@ -13,7 +13,7 @@
 <h2 align="center">Hi, I'm Ekarsi Lodh 👋</h2>
 
 <p align="center">
-  <strong>Bioinformatics MSc | Computational Biology | Deep Learning | Multi-Omics Integration | HPC & Reproducible Pipelines</strong>
+  <strong>Bioinformatics MSc @ UoB| Computational Biology | Deep Learning | Multi-Omics Integration | HPC & Reproducible Pipelines</strong>
 </p>
 
 ---
@@ -137,7 +137,7 @@ M. De, R. L. Chhetri, M. Konar, A. N. Joardar, A. Jain, **E. Lodh**, T. Chowdhur
 
 ## 🔗 Featured Current Project
 
-- **[SV-Trios](https://github.com/ekarsilodh/Delly-SV-Trios))** — Trio-based SV annotation pipeline from Delly VCFs (Python + BEDTools)  
+- **[SV-Trios](https://github.com/ekarsilodh/Delly-SV-Trios)** — Trio-based SV annotation pipeline from Delly VCFs (Python + BEDTools)  
 
 ---
 

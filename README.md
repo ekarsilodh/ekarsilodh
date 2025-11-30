@@ -1,7 +1,7 @@
 <!-- ================= HEADER / BANNER ================ -->
 
 <p align="center">
-  <img src="https://github.com/ekarsilodh/ekarsilodh/blob/main/Banner.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/ekarsilodh/ekarsilodh/blob/main/banner_new.png" width="100%" alt="Banner"/>
 </p>
 
 <p align="left">

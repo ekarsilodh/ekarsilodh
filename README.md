@@ -139,7 +139,8 @@ M. De, R. L. Chhetri, M. Konar, A. N. Joardar, A. Jain, **E. Lodh**, T. Chowdhur
 
 ## 🔗 Featured Current Project
 
-- **[SV-Trios](https://github.com/ekarsilodh/Delly-SV-Trios)** — Trio-based SV annotation pipeline from Delly VCFs (Python + BEDTools)  
+- **[SV-Trios](https://github.com/ekarsilodh/Delly-SV-Trios)** — Trio-based SV annotation pipeline from Delly VCFs (Python + BEDTools)
+- **[dellyvcftrio](https://dellyvcftrio.streamlit.app/)** — An interactive Streamlit dashboard for trio-based structural variant analysis, Mendelian checks, and de novo detection of DELLY VCFs.  
 
 ---
 

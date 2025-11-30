@@ -69,9 +69,9 @@ I work on problems such as:
 
 **Implications of Trinodal Inhibitions and Drug Repurposing in MAPK Pathway: A Putative Remedy for Breast Cancer**   
 *Computational Biology and Chemistry, 2024*  
-S. Majumder, **E. Lodh**, T. Chowdhury
+S. Majumder, **E. Lodh**, T. Chowdhury  
+**DOI:** [10.1016/j.compbiolchem.2024.108255](https://doi.org/10.1016/j.compbiolchem.2024.108255)  
 
- 
 
 ---
 
@@ -80,13 +80,15 @@ S. Majumder, **E. Lodh**, T. Chowdhury
 
 **CGDeepAff: Deep Learning-Based Approach for Protein–Ligand Binding Affinity Estimation Using CNN-GRU**  
 *IEMENTech 2025 – Presenter*  
-**E. Lodh**, S. Majumder, T. Chowdhury
+**E. Lodh**, S. Majumder, T. Chowdhury  
+**DOI:** [10.1109/IEMENTech65115.2025.10959578](https://doi.org/10.1109/IEMENTech65115.2025.10959578)  
 
 [<img src="https://img.shields.io/badge/IEEE-Conference-blue?style=flat-square&logo=IEEE&logoColor=white"/>](https://doi.org/10.1109/IEMENTech65115.2025.10959554)
 
 **Ensemble Clustering on Big Data**  
 *IEMENTech 2025 – Presenter*  
-T. Chowdhury, U. Das, A. Makur, A. Sinha, D. Jana, A. Das, **E. Lodh**
+T. Chowdhury, U. Das, A. Makur, A. Sinha, D. Jana, A. Das, **E. Lodh**  
+**DOI:** [10.1109/IEMENTech65115.2025.10959554](https://doi.org/10.1109/IEMENTech65115.2025.10959554)  
 
 <img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>
 

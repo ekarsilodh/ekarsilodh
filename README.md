@@ -177,7 +177,7 @@ M. De, R. L. Chhetri, M. Konar, A. N. Joardar, A. Jain, **E. Lodh**, T. Chowdhur
   <img src="https://streak-stats.demolab.com/?user=ekarsilodh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ekarsilodh&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ekarsilodh&layout=compact&theme=tokyonight" alt="Top Languages" />
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekarsilodh&theme=tokyo-night" alt="GitHub Activity Graph" />

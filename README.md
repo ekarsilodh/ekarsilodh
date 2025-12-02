@@ -8,6 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=ekarsilodh&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
+<a href="https://github.com/ekarsilodh/ekarsi-cv/raw/main/assets/EkarsiLodhCV2025.pdf" download>
+  <img src="https://img.shields.io/badge/Download%20CV-PDF-critical?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+
 <!-- ================= Heading Name ================ -->
 
 <h2 align="center">Hi, I'm Ekarsi Lodh 👋</h2>

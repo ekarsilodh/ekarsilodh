@@ -95,7 +95,7 @@ S. Majumder, **E. Lodh**, T. Chowdhury
 T. Chowdhury, U. Das, A. Makur, A. Sinha, D. Jana, A. Das, **E. Lodh**  
 **DOI:** [10.1109/IEMENTech65115.2025.10959554](https://doi.org/10.1109/IEMENTech65115.2025.10959554)  
 
-<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springer-Conference-blue?style=flat-square&logo=Springer&logoColor=white"/>
 
 <b>A Deep Learning-Based Method for the Categorization of Different Skin Diseases</b>  
 *(AdComSys 2025 – Accepted, In Press, Presenter)*  

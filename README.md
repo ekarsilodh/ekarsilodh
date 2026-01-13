@@ -81,6 +81,14 @@ S. Majumder, **E. Lodh**, T. Chowdhury
 ---
 
 ### **2025** 
+
+[<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.jmgm.2026.109282)
+
+**RLBindDeep: A ResNet-LSTM based novel framework for protein–ligand binding affinity prediction**   
+*Journal of Molecular Graphics and Modelling, 2025*  
+**E. Lodh**, S. Majumder, T. Chowdhury, M. De  
+**DOI:** [10.1016/j.compbiolchem.2024.108255](https://doi.org/10.1016/j.jmgm.2026.109282)  
+
 [<img src="https://img.shields.io/badge/IEEE-Conference-blue?style=flat-square&logo=IEEE&logoColor=white"/>](https://doi.org/10.1109/IEMENTech65115.2025.10959578)
 
 **CGDeepAff: Deep Learning-Based Approach for Protein–Ligand Binding Affinity Estimation Using CNN-GRU**  

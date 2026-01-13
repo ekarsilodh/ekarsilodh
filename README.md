@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ekarsilodh&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<a href="https://github.com/ekarsilodh/ekarsi-cv/raw/main/assets/EkarsiLodhCV2025.pdf" download>
+<a href="https://github.com/ekarsilodh/ekarsi-cv/raw/main/assets/EkarsiLodhCV2026.pdf" download>
   <img src="https://img.shields.io/badge/Download%20CV-PDF-critical?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 

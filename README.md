@@ -79,7 +79,6 @@ S. Majumder, **E. Lodh**, T. Chowdhury
 
 
 ---
----
 
 ### **2025** 
 
@@ -89,8 +88,6 @@ S. Majumder, **E. Lodh**, T. Chowdhury
 *Journal of Molecular Graphics and Modelling, 2025*  
 **E. Lodh**, S. Majumder, T. Chowdhury, M. De  
 **DOI:** [10.1016/j.jmgm.2026.109282](https://doi.org/10.1016/j.jmgm.2026.109282)  
-
---
 
 [<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s42001-025-00451-2)
 

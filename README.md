@@ -82,20 +82,6 @@ S. Majumder, **E. Lodh**, T. Chowdhury
 
 ### **2025** 
 
-[<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.jmgm.2026.109282)
-
-**RLBindDeep: A ResNet-LSTM based novel framework for protein–ligand binding affinity prediction**   
-*Journal of Molecular Graphics and Modelling, 2025*  
-**E. Lodh**, S. Majumder, T. Chowdhury, M. De  
-**DOI:** [10.1016/j.jmgm.2026.109282](https://doi.org/10.1016/j.jmgm.2026.109282)  
-
-[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s42001-025-00451-2)
-
-**Graph-theoretic and emotional analysis of character dynamics in novel-to-film adaptations**   
-*Journal of Computational Social Science, 2025*  
-T. Chowdhury, S. Basu, A. Roy, V. Sarkar, K. Mondal, **E. Lodh**, M. De  
-**DOI:** [10.1007/s42001-025-00451-2](https://doi.org/10.1007/s42001-025-00451-2)  
-
 [<img src="https://img.shields.io/badge/IEEE-Conference-blue?style=flat-square&logo=IEEE&logoColor=white"/>](https://doi.org/10.1109/IEMENTech65115.2025.10959578)
 
 **CGDeepAff: Deep Learning-Based Approach for Protein–Ligand Binding Affinity Estimation Using CNN-GRU**  
@@ -121,6 +107,24 @@ M. De, R. L. Chhetri, M. Konar, A. N. Joardar, A. Jain, **E. Lodh**, T. Chowdhur
 <b>GeneDeepNet: A Differential Expression and Deep Learning Based Novel Framework for Detecting Invasive Breast Cancer Subtypes</b>  
 *(ICMLDE 2025 – Procedia Computer Science, Accepted, In Press, Presenter)*  
 **E. Lodh**, S. Majumder, T. De, T. Chowdhury, M. De 
+
+---
+
+### **2026** 
+
+[<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.jmgm.2026.109282)
+
+**RLBindDeep: A ResNet-LSTM based novel framework for protein–ligand binding affinity prediction**   
+*Journal of Molecular Graphics and Modelling, 2025*  
+**E. Lodh**, S. Majumder, T. Chowdhury, M. De  
+**DOI:** [10.1016/j.jmgm.2026.109282](https://doi.org/10.1016/j.jmgm.2026.109282)  
+
+[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s42001-025-00451-2)
+
+**Graph-theoretic and emotional analysis of character dynamics in novel-to-film adaptations**   
+*Journal of Computational Social Science, 2025*  
+T. Chowdhury, S. Basu, A. Roy, V. Sarkar, K. Mondal, **E. Lodh**, M. De  
+**DOI:** [10.1007/s42001-025-00451-2](https://doi.org/10.1007/s42001-025-00451-2)  
 
 ---
 

@@ -112,6 +112,13 @@ M. De, R. L. Chhetri, M. Konar, A. N. Joardar, A. Jain, **E. Lodh**, T. Chowdhur
 
 ### **2026** 
 
+[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s13721-026-00755-x)
+
+**A Stacked Ensemble Meta-Classifier Framework for PAM50 Breast Cancer Subtype Prediction from Gene Expression Signatures**   
+*Network Modeling Analysis in Health Informatics and Bioinformatics, 2026*  
+**E. Lodh**, T. Chowdhury, A. Shaw, D. Bedajna, S. Bera, S. Majumder, and M. De  
+**DOI:** [10.1007/s13721-026-00755-x](https://doi.org/10.1007/s13721-026-00755-x)  
+
 [<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.jmgm.2026.109282)
 
 **RLBindDeep: A ResNet-LSTM based novel framework for protein–ligand binding affinity prediction**   

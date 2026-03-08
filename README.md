@@ -25,14 +25,15 @@
 
 ## 🔬 About Me
 
-I am a **Bioinformatics MSc student** interested in using **machine learning, deep learning, and network biology** to decipher complex biological data. My aim is to build pipelines that bridge genomics, transcriptomics, structural biology, and drug repurposing.
+I am a **Bioinformatics MSc student** interested in using **machine learning, deep learning, and network biology** to decipher complex biological and electronic health record (EHR) data. My aim is to build pipelines that bridge genomics, transcriptomics, structural biology, and drug repurposing.
 
 I work on problems such as:
 - Multi-omics integration and regulome analysis  
 - Gene expression-based cancer subtyping (e.g. PAM50) using ensemble ML/DL models  
 - Protein–ligand binding affinity prediction via deep learning  
 - Structural variant (SV) annotation & trio-based analysis  
-- High-performance computing, GPU-enabled workflows, reproducible pipelines  
+- High-performance computing, GPU-enabled workflows, reproducible pipelines
+- LLMs for prediction of death, readmission, and length of stay from EHR data.
 
 ---
 

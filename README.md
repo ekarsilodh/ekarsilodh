@@ -69,15 +69,44 @@ I work on problems such as:
 
 # 📚 **Publications**
 
-### **2024**
+### **2026** 
 
-[<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.compbiolchem.2024.108255)
+[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/s00438-026-02423-1)
 
-**Implications of Trinodal Inhibitions and Drug Repurposing in MAPK Pathway: A Putative Remedy for Breast Cancer**   
-*Computational Biology and Chemistry, Oct. 2024*  
-S. Majumder, **E. Lodh**, T. Chowdhury  
-**DOI:** [10.1016/j.compbiolchem.2024.108255](https://doi.org/10.1016/j.compbiolchem.2024.108255)  
+**In silico Characterization of Melanoma-derived Mouse lncRNA Gm26982 and Comparative Analyses with Human Ortholog**   
+*Molecular Genetics and Genomics, Apr. 2026*  
+S. Majumder, **E. Lodh**, T.De, and T. Chowdhury   
+**DOI:** [10.1007/s00438-026-02423-1](https://doi.org/10.1007/s00438-026-02423-1) 
 
+
+[<img src="https://img.shields.io/badge/Read%20on-Wiley-black?style=flat-square&logo=Wiley&logoColor=white"/>](https://doi.org/10.1111/coin.70232)
+
+**BioAlignNet: A GPU-Accelerated Framework for Efficient Global Sequence Alignment Across Genomics and Proteomics Scales**   
+*Computational Intelligence, Apr. 2026*  
+**E. Lodh**, T. Chowdhury, S. Majumder        
+**DOI:** [10.1111/coin.70232](https://doi.org/10.1111/coin.70232) 
+
+
+[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s13721-026-00755-x)
+
+**A Stacked Ensemble Meta-Classifier Framework for PAM50 Breast Cancer Subtype Prediction from Gene Expression Signatures**   
+*Network Modeling Analysis in Health Informatics and Bioinformatics, Mar. 2026*  
+**E. Lodh**, T. Chowdhury, A. Shaw, D. Bedajna, S. Bera, S. Majumder, and M. De  
+**DOI:** [10.1007/s13721-026-00755-x](https://doi.org/10.1007/s13721-026-00755-x)  
+
+[<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.jmgm.2026.109282)
+
+**RLBindDeep: A ResNet-LSTM based novel framework for protein–ligand binding affinity prediction**   
+*Journal of Molecular Graphics and Modelling, Jan. 2026*  
+**E. Lodh**, S. Majumder, T. Chowdhury, M. De  
+**DOI:** [10.1016/j.jmgm.2026.109282](https://doi.org/10.1016/j.jmgm.2026.109282)  
+
+[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s42001-025-00451-2)
+
+**Graph-theoretic and emotional analysis of character dynamics in novel-to-film adaptations**   
+*Journal of Computational Social Science, Jan. 2026*  
+T. Chowdhury, S. Basu, A. Roy, V. Sarkar, K. Mondal, **E. Lodh**, M. De  
+**DOI:** [10.1007/s42001-025-00451-2](https://doi.org/10.1007/s42001-025-00451-2)  
 
 ---
 
@@ -111,28 +140,14 @@ M. De, R. L. Chhetri, M. Konar, A. N. Joardar, A. Jain, **E. Lodh**, T. Chowdhur
 
 ---
 
-### **2026** 
+### **2024**
 
-[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s13721-026-00755-x)
+[<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.compbiolchem.2024.108255)
 
-**A Stacked Ensemble Meta-Classifier Framework for PAM50 Breast Cancer Subtype Prediction from Gene Expression Signatures**   
-*Network Modeling Analysis in Health Informatics and Bioinformatics, Mar. 2026*  
-**E. Lodh**, T. Chowdhury, A. Shaw, D. Bedajna, S. Bera, S. Majumder, and M. De  
-**DOI:** [10.1007/s13721-026-00755-x](https://doi.org/10.1007/s13721-026-00755-x)  
-
-[<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.jmgm.2026.109282)
-
-**RLBindDeep: A ResNet-LSTM based novel framework for protein–ligand binding affinity prediction**   
-*Journal of Molecular Graphics and Modelling, Jan. 2026*  
-**E. Lodh**, S. Majumder, T. Chowdhury, M. De  
-**DOI:** [10.1016/j.jmgm.2026.109282](https://doi.org/10.1016/j.jmgm.2026.109282)  
-
-[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s42001-025-00451-2)
-
-**Graph-theoretic and emotional analysis of character dynamics in novel-to-film adaptations**   
-*Journal of Computational Social Science, Jan. 2026*  
-T. Chowdhury, S. Basu, A. Roy, V. Sarkar, K. Mondal, **E. Lodh**, M. De  
-**DOI:** [10.1007/s42001-025-00451-2](https://doi.org/10.1007/s42001-025-00451-2)  
+**Implications of Trinodal Inhibitions and Drug Repurposing in MAPK Pathway: A Putative Remedy for Breast Cancer**   
+*Computational Biology and Chemistry, Oct. 2024*  
+S. Majumder, **E. Lodh**, T. Chowdhury  
+**DOI:** [10.1016/j.compbiolchem.2024.108255](https://doi.org/10.1016/j.compbiolchem.2024.108255)  
 
 ---
 

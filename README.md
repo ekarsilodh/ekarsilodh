@@ -18,34 +18,36 @@
 <h2 align="center">Hi, I'm Ekarsi Lodh 👋</h2>
 
 <p align="center">
-  <strong>Bioinformatics MSc @ UoB| Computational Biology | Deep Learning | Multi-Omics Integration | HPC & Reproducible Pipelines</strong>
+  <strong>Bioinformatics & Computational Biology Researcher | PGTA @ University of Birmingham | Research Associate @ HealthTech AI Hub | Computational Genomics | AI/ML in Biomedical Research | LLM Fine-Tuning for EHR Data | HPC & Reproducible Pipelines</strong>
 </p>
 
 ---
 
 ## 🔬 About Me
 
-I am a **Bioinformatics MSc student** interested in using **machine learning, deep learning, and network biology** to decipher complex biological and electronic health record (EHR) data. My aim is to build pipelines that bridge genomics, transcriptomics, structural biology, and drug repurposing.
+I am a **Bioinformatics researcher and Postgraduate Teaching Assistant (PGTA) at the University of Birmingham**, with a background in **Computer Science, Bioinformatics, Artificial Intelligence, and Machine Learning**.
 
-I work on problems such as:
-- Multi-omics integration and regulome analysis  
-- Gene expression-based cancer subtyping (e.g. PAM50) using ensemble ML/DL models  
-- Protein–ligand binding affinity prediction via deep learning  
-- Structural variant (SV) annotation & trio-based analysis  
-- High-performance computing, GPU-enabled workflows, reproducible pipelines
-- LLMs for prediction of death, readmission, next disease, and length of stay from EHR data.
+I have completed my **MSc in Bioinformatics at the University of Birmingham, UK**, following a **Bachelor's degree in Computer Science and Engineering from Techno Main Salt Lake**.
 
----
+I currently work as a **Postgraduate Teaching Assistant (PGTA)** for the **MSc Bioinformatics** and **MSc Bioinformatics (Distance Learning)** programmes at the University of Birmingham, supporting students in developing foundational and applied skills in **Linux, Python, R, NGS pipelines, and Statistical Machine Learning**.
 
-# 🔭 **Current Focus Areas**
+My research interests lie at the intersection of **Bioinformatics, Computational Biology, Artificial Intelligence, and Machine Learning**, with a focus on developing computational approaches for complex biological and clinical datasets.
 
-- 🧬 Multi-omics integration & regulome analytics  
-- 🧠 Deep learning for cancer & neurodegeneration (AD, AML, BRCA)  
-- 🧩 RNA structural biology (TM-score evaluation pipelines)  
-- 🔥 Transformer/ResNet/GRU-based biological modeling  
-- ⚗️ Generative & reinforcement learning for drug repurposing  
-- 🧪 Structural variant annotation (ClinVar/ClinGen pipelines)  
-- 🖥️ HPC workflows on BlueBEAR (GPU/CPU clusters)  
+### 🧬 Research Interests
+
+- **Genomics, Transcriptomics & Proteomics** — biomarker discovery, sequencing analysis, and disease characterisation
+- **Cancer Bioinformatics** — molecular subtyping, multi-omics analysis, and ML/DL-based cancer research
+- **Computational Neuroscience** — computational investigation of molecular mechanisms underlying neurological diseases
+- **Network Biology & Regulome Analysis** — modelling complex biological and regulatory networks
+- **Multi-omics Integration** — integrating genomic, transcriptomic, epigenomic, and proteomic information
+- **Protein–Ligand & Drug–Target Modelling** — deep learning approaches for binding affinity and interaction prediction
+- **Drug Repurposing** — network- and AI-driven approaches for therapeutic discovery
+- **Variant Analysis** — structural variant annotation, variant interpretation, and trio-based genomic analysis
+- **Machine Learning & Deep Learning** — predictive modelling across biological and clinical applications
+- **LLMs & Foundation Models for EHRs** — mortality, readmission, next-disease, and length-of-stay prediction
+- **High-Performance Computing (HPC)** — GPU-enabled workflows, scalable analysis, and reproducible computational pipelines
+
+My broader goal is to develop computational methods that bridge **biological data, clinical information, and modern AI** to better understand disease mechanisms and contribute towards **precision medicine and data-driven healthcare**.
 
 ---
 

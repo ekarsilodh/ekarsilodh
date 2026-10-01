@@ -196,7 +196,7 @@ S. Majumder, **E. Lodh**, T. Chowdhury
 # 🔗 **Connect With Me**
 
 <p align="left">
-  <a href="mailto:exl533@student.bham.ac.uk">
+  <a href="mailto:e.lodh@bham.ac.uk">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
   </a>
 
